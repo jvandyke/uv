@@ -1,0 +1,8 @@
+ul.list-unstyled {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.faded {
+  opacity: 0.5;
+}
